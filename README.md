@@ -6,9 +6,11 @@
   <img align="right" src="wishglobe.gif" height="150">
 </h1>
 
-Hi! My name is Thalal Naathir Nawas AKA BlackAxe. Get ready to unleash my coding powers 
+<p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. Get ready to unleash my coding powers 😎</p> 
 
-
+<h1>
+  About Me
+</h1>
 
 
 
