@@ -5,14 +5,17 @@
   Welcome to BlackAxe's Cave!
   <img align="right" src="clapper.gif" height="150">
 </h1>
+<br>
 
 <p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. I am <b>Full Stack Software Engineer 💻</b> <br>Get ready to unleash my coding powers 😎</p> 
+<br>
 
 <h1>
   About Me
   <img src="reel.gif" height="50">
 </h1>
-   
+<br>
+
 <ul>
   <li>
     <p>
@@ -35,13 +38,13 @@
     </p>
   </li>
 </ul>
-
+<br>
 
 <h1>
   Teck Stack
   <img src="filming.gif" height="70">
 </h1>
-
+<br>
 
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg" height="50"></a>
@@ -70,16 +73,17 @@
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" height="50"></a>
 <br><br>
+
 <h1>
 Find BlackAxe
 <img src="cap.gif" height="50">
 </h1>
 <br>
-<a href="mailto:thalal.naathir.nawas@gmail.com"><img src="Gmail.png" height="40"></a>
-<a href="https://www.linkedin.com/in/tn-nawas/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="40"></a>
 
-
-
+<a href="mailto:thalal.naathir.nawas@gmail.com"><img src="https://github.com/ItsMyBlackAxe/ItsMyBlackAxe/blob/main/gmail.svg" height="30">&nbsp&nbsp&nbsp</a>
+<a href="https://www.linkedin.com/in/tn-nawas/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="40"></a>&nbsp&nbsp&nbsp<a href="https://instagram.com/its.thxlxl?igshid=YmMyMTA2M2Y="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" height="35"></a>
+&nbsp&nbsp&nbsp
+<a href="https://www.youtube.com/@nomadnaathir638"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg" height="35"></a>
 
 
 
