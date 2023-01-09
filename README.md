@@ -1,9 +1,12 @@
 
 
-<h1 align = "left" >Welcome to BlackAxe's Cave! 👾💪
-<img align="right" src="wishglobe.gif" height="150">
-
+<h1>
+  Welcome to BlackAxe's Cave!
+  <img src="coffee.gif" height="50">
+  <img align="right" src="wishglobe.gif" height="150">
 </h1>
+
+Hi! My name is Thalal Naathir Nawas AKA BlackAxe. Get ready to unleash my coding powers 
 
 
 
