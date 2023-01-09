@@ -1,8 +1,8 @@
 
 
 <h1>
-  Welcome to BlackAxe's Cave!
   <img src="coffee.gif" height="50">
+  Welcome to BlackAxe's Cave!
   <img align="right" src="clapper.gif" height="150">
 </h1>
 
@@ -10,9 +10,26 @@
 
 <h1>
   About Me
+  <img src="reel.gif" height="50">
 </h1>
 
-
+<ul>
+  <li>
+    <p>
+    🔭 I’m currently working on
+    </p>
+  </li>
+</ul>
+<p>
+- 🔭 I’m currently working on </br>
+- 🌱 I’m currently learning </br>
+- 👯 I’m looking to collaborate on </br>
+- 🤔 I’m looking for help with </br>
+- 💬 Ask me about </br>
+- 📫 How to reach me: </br>
+- 😄 Pronouns: </br>
+- ⚡ Fun fact: </br>
+</P>
 
 
 
