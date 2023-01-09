@@ -41,7 +41,7 @@
 <br>
 
 <h1>
-  Teck Stack
+  Tech Stack
   <img src="filming.gif" height="70">
 </h1>
 <br>
