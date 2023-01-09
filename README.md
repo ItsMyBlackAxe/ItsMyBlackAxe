@@ -31,15 +31,14 @@
   </li>
   <li>
     <p>
-    📫 How to reach me:
-    </p>
-  </li>
-  <li>
-    <p>
     ⚡ Fun fact:
     </p>
   </li>
 </ul>
+<p>
+    <a href="https://www.linkedin.com/in/tn-nawas/"> <img src="LinkedIn.png" height="20"></a>
+    <a href="//thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="20"></a>
+</p>
 
 
 
