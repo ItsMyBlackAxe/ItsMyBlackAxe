@@ -6,11 +6,13 @@
   <img align="right" src="clapper.gif" height="150">
 </h1>
 
-<p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. Get ready to unleash my coding powers 😎</p> 
+<p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. I am <b>Full Stack Software Engineer 💻</b> <br>Get ready to unleash my coding powers 😎</p> 
 
 <h1>
   About Me
   <img src="reel.gif" height="50">
+    <a align="right" href="https://www.linkedin.com/in/tn-nawas/"> <img src="LinkedIn.png" height="20"></a>
+    <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="20"></a>
 </h1>
 
 <ul>
@@ -31,14 +33,15 @@
   </li>
   <li>
     <p>
-    ⚡ Fun fact:
+    ⚡ Fun fact: I'm a travel vlogger and a crazy movie buff. Hehe:)
     </p>
   </li>
 </ul>
-<p>
-    <a href="https://www.linkedin.com/in/tn-nawas/"> <img src="LinkedIn.png" height="20"></a>
-    <a href="//thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="20"></a>
-</p>
+
+
+<h1>
+  Teck Stack
+</h1>
 
 
 
