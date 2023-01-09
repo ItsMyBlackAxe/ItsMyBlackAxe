@@ -75,12 +75,8 @@ Find BlackAxe
 <img src="cap.gif" height="50">
 </h1>
 <br>
- <a align="right" href="https://www.linkedin.com/in/tn-nawas/"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg" height="40"></a>
- <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="40"></a>
- <a align="right" href="https://instagram.com/its.thxlxl?igshid=YmMyMTA2M2Y="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"
- height="40"></a>
- <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"
- height="40"></a>
+<a href="mailto:thalal.naathir.nawas@gmail.com"><img src="Gmail.png" height="40"></a>
+<a href="https://www.linkedin.com/in/tn-nawas/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="40"></a>
 
 
 
