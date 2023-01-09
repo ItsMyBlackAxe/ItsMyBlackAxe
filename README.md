@@ -80,27 +80,8 @@ Find BlackAxe
 </h1>
 <br>
 
-<a href="mailto:thalal.naathir.nawas@gmail.com"><img src="https://github.com/ItsMyBlackAxe/ItsMyBlackAxe/blob/main/gmail.svg" height="30">&nbsp&nbsp&nbsp</a>
-<a href="https://www.linkedin.com/in/tn-nawas/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="40"></a>&nbsp&nbsp&nbsp<a href="https://instagram.com/its.thxlxl?igshid=YmMyMTA2M2Y="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" height="35"></a>
-&nbsp&nbsp&nbsp
+<a href="mailto:thalal.naathir.nawas@gmail.com"><img src="https://github.com/ItsMyBlackAxe/ItsMyBlackAxe/blob/main/gmail.svg" height="30"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tn-nawas/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/its.thxlxl?igshid=YmMyMTA2M2Y="><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" height="35"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@nomadnaathir638"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg" height="35"></a>
 
-
-
-
-
-
-<!--
-**ItsMyBlackAxe/ItsMyBlackAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
