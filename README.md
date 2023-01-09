@@ -12,8 +12,7 @@
   About Me
   <img src="reel.gif" height="50">
 </h1>
-    <a align="right" href="https://www.linkedin.com/in/tn-nawas/"> <img src="LinkedIn.png" height="20"></a>
-    <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="20"></a>
+   
 <ul>
   <li>
     <p>
@@ -70,11 +69,18 @@
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" height="50"></a>
 <a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" height="50"></a>
-
+<br><br>
 <h1>
 Find BlackAxe
+<img src="cap.gif" height="50">
 </h1>
-
+<br>
+ <a align="right" href="https://www.linkedin.com/in/tn-nawas/"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg" height="40"></a>
+ <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="40"></a>
+ <a align="right" href="https://instagram.com/its.thxlxl?igshid=YmMyMTA2M2Y="> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"
+ height="40"></a>
+ <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"
+ height="40"></a>
 
 
 
