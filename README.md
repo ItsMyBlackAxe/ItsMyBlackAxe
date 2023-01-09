@@ -3,7 +3,7 @@
 <h1>
   Welcome to BlackAxe's Cave!
   <img src="coffee.gif" height="50">
-  <img align="right" src="wishglobe.gif" height="150">
+  <img align="right" src="clapper.gif" height="150">
 </h1>
 
 <p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. Get ready to unleash my coding powers 😎</p> 
