@@ -16,20 +16,31 @@
 <ul>
   <li>
     <p>
-    🔭 I’m currently working on
+    🔭 I’m currently working on a web application that makes everyone's lives much easier :)
+    </p>
+  </li>
+  <li>
+    <p>
+      🌱 I’m currently learning <b>Docker, Kubernetes, and DevOps.</b>
+    </p>
+  </li>
+  <li>
+    <p>
+      💬 Ask me about <b>movies, codes, and on how to party.</b>
+    </p>
+  </li>
+  <li>
+    <p>
+    📫 How to reach me:
+    </p>
+  </li>
+  <li>
+    <p>
+    ⚡ Fun fact:
     </p>
   </li>
 </ul>
-<p>
-- 🔭 I’m currently working on </br>
-- 🌱 I’m currently learning </br>
-- 👯 I’m looking to collaborate on </br>
-- 🤔 I’m looking for help with </br>
-- 💬 Ask me about </br>
-- 📫 How to reach me: </br>
-- 😄 Pronouns: </br>
-- ⚡ Fun fact: </br>
-</P>
+
 
 
 
