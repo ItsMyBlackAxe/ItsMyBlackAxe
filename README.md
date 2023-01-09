@@ -1,4 +1,17 @@
-# Hello & Welcome to BlackAxe's Cave! 👾💪🏽
+
+
+<h1 align = "left" >Welcome to BlackAxe's Cave! 👾💪
+<img align="right" src="wishglobe.gif" height="150">
+
+</h1>
+
+
+
+
+
+
+
+
 
 <!--
 **ItsMyBlackAxe/ItsMyBlackAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
