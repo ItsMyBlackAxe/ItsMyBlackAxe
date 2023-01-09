@@ -11,10 +11,9 @@
 <h1>
   About Me
   <img src="reel.gif" height="50">
+</h1>
     <a align="right" href="https://www.linkedin.com/in/tn-nawas/"> <img src="LinkedIn.png" height="20"></a>
     <a align="right" href="mailto:thalal.naathir.nawas@gmail.com"> <img src="Gmail.png" height="20"></a>
-</h1>
-
 <ul>
   <li>
     <p>
@@ -41,7 +40,42 @@
 
 <h1>
   Teck Stack
+  <img src="filming.gif" height="70">
 </h1>
+
+
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" height="50"></a>
+<a href="https://github.com/ItsMyBlackAxe#--teck-stack--"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg" height="50"></a>
+
+
+
+
+
+
 
 
 
