@@ -7,7 +7,7 @@
 </h1>
 <br>
 
-<p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. I am <b>Full Stack Software Engineer 💻</b> <br>Get ready to unleash my coding powers 😎</p> 
+<p>Hi! My name is <b>Thalal Naathir Nawas</b> AKA <b>BlackAxe</b>. I am a <b>Full Stack Software Engineer 💻</b> <br>Get ready to unleash my coding powers 😎</p> 
 <br>
 
 <h1>
